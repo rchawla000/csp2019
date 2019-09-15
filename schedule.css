@@ -1,6 +1,6 @@
 ﻿body{
 font-family: Arial,"Marker Felt", "Comic Sans MS", fantasy;
-color: #003366;
+color: #800080;
 background-color: lavender;
 }
 h1 {
@@ -16,10 +16,10 @@ border-collapse: collapse;
 tr {
 border: 1px solid #ffffff;
 text-align: center;
-background-color:#9FB6CD;
+background-color:#800080;
 }
 th {
 text-align: center;
 color: #ffffff;
-background-color: #003366;
+background-color: #800080;
 }
